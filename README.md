@@ -26,12 +26,6 @@ Streamlit is designed specifically for data scientists and machine learning engi
 
 The `streamlit.py` file in this repository contains a sample Streamlit application. You can use it to understand how Streamlit works and write your own code to create a web app. This file serves as a starting point for building interactive data science applications.
 
-## How to Clone the Repository
-
-To clone this repository, use the following command in your terminal:
-
-```bash
-git clone https://github.com/anshh-arora/streamlit.git
 
 ## Contact Information
 For any questions or feedback, feel free to reach out:
@@ -39,3 +33,10 @@ For any questions or feedback, feel free to reach out:
 - **Email**: [ansharora.cs@gmail.com](mailto:ansharora.cs@gmail.com)
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist/)
 - **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
+
+
+## How to Clone the Repository
+
+To clone this repository, use the following command in your terminal:
+```bash
+git clone https://github.com/anshh-arora/streamlit.git
