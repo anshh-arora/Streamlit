@@ -4,6 +4,9 @@
 
 [Streamlit](https://www.streamlit.io/) is an open-source Python library that makes it easy to create and share custom web apps for machine learning and data science projects. It allows you to build interactive, beautiful, and easy-to-use web applications quickly without needing extensive web development skills.
 
+## Check Out the Web App
+(https://app-bf8nupnawlxjxcb8jfg3gv.streamlit.app/)
+
 ## How is Streamlit Useful for Data Science?
 
 Streamlit provides a simple way to turn data scripts into shareable web apps in minutes. It is particularly useful for data scientists because:
